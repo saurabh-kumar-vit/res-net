@@ -1,0 +1,211 @@
+{'train': 23000, 'val': 1000}
+['cat', 'dog']
+Epoch 0/39
+----------
+LR is set to 0.001
+train Loss: 0.0979 Acc: 0.5601 Time: 2m 52s
+val Loss: 0.0944 Acc: 0.5880 Time: 0m 2s
+
+Epoch 1/39
+----------
+train Loss: 0.0931 Acc: 0.6184 Time: 2m 50s
+val Loss: 0.0870 Acc: 0.6720 Time: 0m 2s
+
+Epoch 2/39
+----------
+train Loss: 0.0889 Acc: 0.6564 Time: 2m 47s
+val Loss: 0.0826 Acc: 0.7090 Time: 0m 2s
+
+Epoch 3/39
+----------
+train Loss: 0.0861 Acc: 0.6766 Time: 2m 46s
+val Loss: 0.0774 Acc: 0.7340 Time: 0m 2s
+
+Epoch 4/39
+----------
+train Loss: 0.0805 Acc: 0.7073 Time: 2m 45s
+val Loss: 0.1305 Acc: 0.6130 Time: 0m 2s
+
+Epoch 5/39
+----------
+train Loss: 0.0757 Acc: 0.7344 Time: 2m 46s
+val Loss: 0.0763 Acc: 0.7430 Time: 0m 2s
+
+Epoch 6/39
+----------
+train Loss: 0.0722 Acc: 0.7507 Time: 2m 45s
+val Loss: 0.0543 Acc: 0.8270 Time: 0m 2s
+
+Epoch 7/39
+----------
+train Loss: 0.0693 Acc: 0.7650 Time: 2m 45s
+val Loss: 0.0534 Acc: 0.8260 Time: 0m 2s
+
+Epoch 8/39
+----------
+LR is set to 0.00096
+train Loss: 0.0646 Acc: 0.7820 Time: 2m 45s
+val Loss: 0.0519 Acc: 0.8370 Time: 0m 2s
+
+Epoch 9/39
+----------
+train Loss: 0.0603 Acc: 0.7993 Time: 2m 45s
+val Loss: 0.0483 Acc: 0.8510 Time: 0m 3s
+
+Epoch 10/39
+----------
+train Loss: 0.0584 Acc: 0.8063 Time: 2m 45s
+val Loss: 0.0385 Acc: 0.8770 Time: 0m 2s
+
+Epoch 11/39
+----------
+train Loss: 0.0551 Acc: 0.8174 Time: 2m 45s
+val Loss: 0.0389 Acc: 0.8860 Time: 0m 2s
+
+Epoch 12/39
+----------
+train Loss: 0.0540 Acc: 0.8232 Time: 2m 45s
+val Loss: 0.0344 Acc: 0.9030 Time: 0m 2s
+
+Epoch 13/39
+----------
+train Loss: 0.0515 Acc: 0.8316 Time: 2m 45s
+val Loss: 0.0342 Acc: 0.8950 Time: 0m 2s
+
+Epoch 14/39
+----------
+train Loss: 0.0511 Acc: 0.8319 Time: 2m 45s
+val Loss: 0.0309 Acc: 0.9080 Time: 0m 2s
+
+Epoch 15/39
+----------
+train Loss: 0.0495 Acc: 0.8387 Time: 2m 45s
+val Loss: 0.0311 Acc: 0.9090 Time: 0m 2s
+
+Epoch 16/39
+----------
+LR is set to 0.0009216
+train Loss: 0.0477 Acc: 0.8444 Time: 2m 48s
+val Loss: 0.0473 Acc: 0.8540 Time: 0m 2s
+
+Epoch 17/39
+----------
+train Loss: 0.0464 Acc: 0.8490 Time: 2m 54s
+val Loss: 0.0324 Acc: 0.8990 Time: 0m 2s
+
+Epoch 18/39
+----------
+train Loss: 0.0460 Acc: 0.8501 Time: 2m 45s
+val Loss: 0.0293 Acc: 0.9130 Time: 0m 2s
+
+Epoch 19/39
+----------
+train Loss: 0.0449 Acc: 0.8518 Time: 2m 44s
+val Loss: 0.0281 Acc: 0.9050 Time: 0m 2s
+
+Epoch 20/39
+----------
+train Loss: 0.0434 Acc: 0.8618 Time: 2m 44s
+val Loss: 0.0298 Acc: 0.9150 Time: 0m 2s
+
+Epoch 21/39
+----------
+train Loss: 0.0431 Acc: 0.8597 Time: 2m 44s
+val Loss: 0.0256 Acc: 0.9250 Time: 0m 2s
+
+Epoch 22/39
+----------
+train Loss: 0.0427 Acc: 0.8603 Time: 2m 44s
+val Loss: 0.0247 Acc: 0.9240 Time: 0m 2s
+
+Epoch 23/39
+----------
+train Loss: 0.0421 Acc: 0.8633 Time: 2m 44s
+val Loss: 0.0240 Acc: 0.9190 Time: 0m 2s
+
+Epoch 24/39
+----------
+LR is set to 0.0008847359999999999
+train Loss: 0.0413 Acc: 0.8670 Time: 2m 44s
+val Loss: 0.0205 Acc: 0.9330 Time: 0m 2s
+
+Epoch 25/39
+----------
+train Loss: 0.0412 Acc: 0.8666 Time: 2m 44s
+val Loss: 0.0207 Acc: 0.9360 Time: 0m 2s
+
+Epoch 26/39
+----------
+train Loss: 0.0402 Acc: 0.8725 Time: 2m 44s
+val Loss: 0.0225 Acc: 0.9330 Time: 0m 2s
+
+Epoch 27/39
+----------
+train Loss: 0.0396 Acc: 0.8698 Time: 2m 46s
+val Loss: 0.0193 Acc: 0.9380 Time: 0m 2s
+
+Epoch 28/39
+----------
+train Loss: 0.0396 Acc: 0.8719 Time: 2m 44s
+val Loss: 0.0218 Acc: 0.9270 Time: 0m 2s
+
+Epoch 29/39
+----------
+train Loss: 0.0392 Acc: 0.8723 Time: 2m 44s
+val Loss: 0.0194 Acc: 0.9420 Time: 0m 2s
+
+Epoch 30/39
+----------
+train Loss: 0.0385 Acc: 0.8777 Time: 2m 43s
+val Loss: 0.0194 Acc: 0.9410 Time: 0m 2s
+
+Epoch 31/39
+----------
+train Loss: 0.0392 Acc: 0.8740 Time: 2m 43s
+val Loss: 0.0204 Acc: 0.9380 Time: 0m 2s
+
+Epoch 32/39
+----------
+LR is set to 0.0008493465599999999
+train Loss: 0.0379 Acc: 0.8800 Time: 2m 43s
+val Loss: 0.0201 Acc: 0.9430 Time: 0m 2s
+
+Epoch 33/39
+----------
+train Loss: 0.0382 Acc: 0.8780 Time: 2m 43s
+val Loss: 0.0352 Acc: 0.8970 Time: 0m 2s
+
+Epoch 34/39
+----------
+train Loss: 0.0379 Acc: 0.8792 Time: 2m 43s
+val Loss: 0.0264 Acc: 0.9220 Time: 0m 2s
+
+Epoch 35/39
+----------
+train Loss: 0.0376 Acc: 0.8825 Time: 2m 43s
+val Loss: 0.0222 Acc: 0.9300 Time: 0m 2s
+
+Epoch 36/39
+----------
+train Loss: 0.0372 Acc: 0.8821 Time: 2m 43s
+val Loss: 0.0196 Acc: 0.9430 Time: 0m 2s
+
+Epoch 37/39
+----------
+train Loss: 0.0372 Acc: 0.8818 Time: 2m 43s
+val Loss: 0.0196 Acc: 0.9420 Time: 0m 2s
+
+Epoch 38/39
+----------
+train Loss: 0.0371 Acc: 0.8817 Time: 2m 44s
+val Loss: 0.0178 Acc: 0.9480 Time: 0m 2s
+
+Epoch 39/39
+----------
+train Loss: 0.0372 Acc: 0.8798 Time: 2m 44s
+val Loss: 0.0198 Acc: 0.9380 Time: 0m 2s
+
+Training complete in 111m 34s
+Best val Acc: 0.9480
+Saving history
+Saving the best model
